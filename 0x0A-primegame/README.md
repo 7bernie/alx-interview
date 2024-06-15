@@ -3,7 +3,7 @@
 
 For this project, you will need to leverage your understanding of prime numbers, game theory, and algorithm optimization to solve a competitive game scenario. The challenge involves determining the winner of a game based on the strategic removal of prime numbers and their multiples from a set of consecutive integers.
 
-### Concepts Needed:
+## Concepts Needed:
 1. _Prime Numbers_:
    - Understanding what prime numbers are.
    - Efficient algorithms for identifying prime numbers within a range.
@@ -26,7 +26,7 @@ For this project, you will need to leverage your understanding of prime numbers,
    - Loops and conditional statements for implementing game logic and algorithms.
 Arrays and lists for storing the integers and tracking removed numbers.
 
-### Resources:
+## Resources:
 - _Prime Numbers and Sieve of Eratosthenes:_
 
    - [Khan Academy: Prime Numbers:](https://www.khanacademy.org/math/cc-fourth-grade-math/imp-factors-multiples-and-patterns/imp-prime-and-composite-numbers/v/prime-numbers) Introduction to prime numbers.
@@ -42,10 +42,10 @@ Arrays and lists for storing the integers and tracking removed numbers.
    - [Python Lists:](https://docs.python.org/3/tutorial/introduction.html#lists) Managing lists in Python, useful for tracking the game state.
 By grasping these concepts and making use of the recommended resources, you will be well-equipped to approach the problem with a solid understanding of both the mathematical and programming challenges involved. The key to success in this project lies in applying efficient algorithms to manage the game’s state and making optimal decisions based on the game’s rules.
 
-### Additional Resources
+## Additional Resources
 - [Mock Technical Interview](https://www.youtube.com/watch?feature=shared&v=Jw2pniZCLi8)
 
-### Requirements
+## Requirements
 #### General
 - Allowed editors: vi, vim, emacs
 - All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.4.3)
@@ -55,7 +55,7 @@ By grasping these concepts and making use of the recommended resources, you will
 - Your code should use the PEP 8 style (version 1.7.x)
 - All your files must be executable
 
-### Tasks
+## Tasks
 
 _0. Prime Game_
 
